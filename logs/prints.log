@@ -1,0 +1,57 @@
+16:27:33.386 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+16:27:33.498 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:27:33.499 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+16:27:33.549 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+16:27:33.556 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+16:27:33.562 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+16:27:33.566 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+16:27:33.573 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+16:27:33.577 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+16:27:33.579 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+16:27:33.582 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+16:27:33.586 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+16:27:33.590 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+16:27:33.593 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+16:27:33.595 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+16:27:33.599 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+16:27:33.603 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+16:27:33.606 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+16:27:33.613 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+16:27:33.628 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+16:27:33.632 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+16:27:33.638 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+16:27:33.640 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+16:27:33.642 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+16:27:33.644 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+16:27:33.648 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+16:27:33.655 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+16:27:33.658 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+16:27:33.663 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+16:27:33.670 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+16:27:33.677 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+16:27:33.682 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+16:27:33.699 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+16:27:33.701 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+16:27:33.710 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+16:27:33.715 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+16:27:36.975 [main] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:27:37.102 [main] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:27:37.484 [main] DEBUG tests.LoginTest - login option got clicked
+16:27:37.602 [main] DEBUG tests.LoginTest - Username got entered
+16:27:37.707 [main] DEBUG tests.LoginTest - passwordfield got entered
+16:27:38.077 [main] DEBUG tests.LoginTest - login icon  got clicked
+16:27:48.200 [main] DEBUG tests.LoginTest - the browser got lauched
+16:27:52.128 [main] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:27:52.217 [main] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:27:52.604 [main] DEBUG tests.LoginTest - login option got clicked
+16:27:52.710 [main] DEBUG tests.LoginTest - Username got entered
+16:27:52.817 [main] DEBUG tests.LoginTest - passwordfield got entered
+16:27:53.296 [main] DEBUG tests.LoginTest - login icon  got clicked
+16:28:03.525 [main] DEBUG tests.LoginTest - the browser got lauched
+16:28:06.714 [main] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:28:06.817 [main] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:28:07.147 [main] DEBUG tests.LoginTest - login option got clicked
+16:28:07.258 [main] DEBUG tests.LoginTest - Username got entered
+16:28:07.343 [main] DEBUG tests.LoginTest - passwordfield got entered
+16:28:07.848 [main] DEBUG tests.LoginTest - login icon  got clicked
+16:28:08.030 [main] DEBUG tests.LoginTest - the browser got lauched

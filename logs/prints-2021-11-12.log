@@ -1,0 +1,82 @@
+16:26:15.713 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:26:15.725 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:26:15.739 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:26:15.740 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:26:15.746 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:26:15.747 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:26:15.748 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:26:15.749 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:26:15.749 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:26:15.750 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+16:26:15.818 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:26:15.819 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle themefd26doctype
+16:26:15.867 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stylesheet5d8bdoctype
+16:26:15.872 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctstylesheet4257type
+16:26:15.876 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfonts6623type
+16:26:15.878 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfont14d8type
+16:26:15.885 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfills2c6ftype
+16:26:15.888 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctfill550ctype
+16:26:15.889 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborders0d66type
+16:26:15.892 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctborderf935type
+16:26:15.896 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellxfs1322type
+16:26:15.899 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctxf97f7type
+16:26:15.904 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcellstylexfsa81ftype
+16:26:15.905 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctdxfsb26atype
+16:26:15.907 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cttablestyles872ftype
+16:26:15.910 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle sstf81fdoctype
+16:26:15.915 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsst44f3type
+16:26:15.925 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrsta472type
+16:26:15.947 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle workbookec17doctype
+16:26:15.953 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworkbook83c3type
+16:26:15.957 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheets49fdtype
+16:26:15.958 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheet4dbetype
+16:26:15.960 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle strelationshipid1e94type
+16:26:15.962 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle worksheetf539doctype
+16:26:15.971 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctworksheet530dtype
+16:26:15.977 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctsheetdata8408type
+16:26:15.979 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctrowdd39type
+16:26:15.983 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcell842btype
+16:26:15.989 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcellrefe4e0type
+16:26:15.994 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcols627ctype
+16:26:15.998 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle ctcola95ftype
+16:26:16.013 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlinks6416type
+16:26:16.015 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle cthyperlink0c85type
+16:26:16.028 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stcelltypebf95type
+16:26:16.034 [TestNG-tests-4] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Resolving type for handle stxstringf179type
+16:26:24.974 [TestNG-tests-4] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:26:25.100 [TestNG-tests-4] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:26:25.603 [TestNG-tests-4] DEBUG tests.LoginTest - login option got clicked
+16:26:25.755 [TestNG-tests-4] DEBUG tests.LoginTest - Username got entered
+16:26:25.862 [TestNG-tests-4] DEBUG tests.LoginTest - passwordfield got entered
+16:26:26.265 [TestNG-tests-4] DEBUG tests.LoginTest - login icon  got clicked
+16:26:36.428 [TestNG-tests-4] DEBUG tests.LoginTest - the browser got lauched
+16:26:39.752 [TestNG-tests-4] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:26:39.887 [TestNG-tests-4] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:26:40.220 [TestNG-tests-4] DEBUG tests.LoginTest - login option got clicked
+16:26:40.343 [TestNG-tests-4] DEBUG tests.LoginTest - Username got entered
+16:26:40.457 [TestNG-tests-4] DEBUG tests.LoginTest - passwordfield got entered
+16:26:40.935 [TestNG-tests-4] DEBUG tests.LoginTest - login icon  got clicked
+16:26:51.086 [TestNG-tests-4] DEBUG tests.LoginTest - the browser got lauched
+16:26:54.699 [TestNG-tests-4] DEBUG tests.LoginTest - Navigated to applicatiob url
+16:26:54.794 [TestNG-tests-4] DEBUG tests.LoginTest - myaccountdropdown button got clicked
+16:26:55.099 [TestNG-tests-4] DEBUG tests.LoginTest - login option got clicked
+16:26:55.250 [TestNG-tests-4] DEBUG tests.LoginTest - Username got entered
+16:26:55.347 [TestNG-tests-4] DEBUG tests.LoginTest - passwordfield got entered
+16:26:55.893 [TestNG-tests-4] DEBUG tests.LoginTest - login icon  got clicked
+16:26:56.111 [TestNG-tests-4] DEBUG tests.LoginTest - the browser got lauched
+16:27:33.184 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+16:27:33.190 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+16:27:33.191 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+16:27:33.358 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+16:27:33.361 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:27:33.362 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:27:33.363 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:27:33.364 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:27:33.366 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:27:33.377 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+16:27:33.378 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:27:33.382 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+16:27:33.383 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:27:33.384 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+16:27:33.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+16:27:33.385 [main] TRACE org.apache.xmlbeans.impl.common.XBeanDebug - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
